@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CVSCCApp</string>
+    <string name="unknown_error">Unknown error</string>
+
+    <string name="search_field_description">Search field</string>
+    <string name="search_field_placeholder">Search Flickr Images...</string>
+    <string name="share_image_via">Share image via</string>
+    <string name="share_button_text">Share Image Info</string>
+</resources>
