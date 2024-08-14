@@ -2,7 +2,7 @@
 
 # Library Version: No Current Release
 
-[Visit Google](https://www.google.com)
+[Visit Google](https://www.google.com){:target="_blank"}
 
 |Dependency|Packages|Purpose|CurrentVersion|
 |----------|----------|----------|----------|
